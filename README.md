@@ -1,5 +1,6 @@
 # public-repo
 
 A dummy repo with a dummy commit.
-Again update this for a dummy commit.
-New commit for testing
+
+Dummy commit for PR
+make sure the commit is unique
